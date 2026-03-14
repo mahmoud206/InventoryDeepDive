@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+
+# data files
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# outputs
+Outputs/
+
+# pycharm
+.idea/
+
+# notebook cache
+.ipynb_checkpoints/
