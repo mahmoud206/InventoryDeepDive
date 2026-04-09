@@ -7,6 +7,16 @@ data/
 *.xlsx
 *.parquet
 
+Helping_Files/
+*.csv
+*.xlsx
+*.parquet
+
+Sales_data/
+*.csv
+*.xlsx
+*.parquet
+
 # outputs
 Outputs/
 
