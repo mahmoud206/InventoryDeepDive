@@ -291,8 +291,4 @@ tqdm>=4.66
 
 Full mathematical reference — all formulas, design decisions, and output column definitions — is documented in [`METHODOLOGY.md`](METHODOLOGY.md).
 
----
 
-## Author
-
-Supply chain data analyst. This project was built to replace manual Excel reporting across 133K SKUs with a reproducible, version-controlled analytical pipeline.
