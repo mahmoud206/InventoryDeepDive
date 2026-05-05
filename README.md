@@ -6,7 +6,7 @@ A production-grade supply chain analytics system built for a fabric and apparel 
 
 ## The Problem
 
-A distributor with **133,000+ SKUs**, **4.2M+ transactions**, and **80+ product sections** needed answers to four operational questions:
+A distributor with **133,000+ SKUs**, **4.2M+ transactions**, and **3000+ product sections** needed answers to four operational questions:
 
 1. How do we build a clean, enriched dataset from fragmented yearly CSV exports and 13 auxiliary files — without corrupting margins, duplicating rows, or losing historical SKUs?
 2. Which SKUs are growing, declining, stocking out, or quietly dying — and what should we do about each one?
